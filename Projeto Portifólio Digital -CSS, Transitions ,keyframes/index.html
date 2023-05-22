@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<p align="center">
+
+
+    <source src="Baym Rebin in Palestina - E's Jammy Jams.mp3" type="audio/mp3">
+    <source src="Baym Rebin in Palestina - E's Jammy Jams.mp3" type="audio/ogg">
+    <source src="Baym Rebin in Palestina - E's Jammy Jams.mp3" type="audio/wav">
+
+
+    <button id="playpausebtn">Play</button>
+    <button id="mutebtn">
+                stop</button></body>
+    <script>
+        var audio,
+            playbtn,
+            mutebtn,
+            seek_bar;
+
+        function initAudioPlayer() {
+            audio = new Audio();
+            audio.src = "Baym Rebin in Palestina - E's Jammy Jams.mp3";
+            audio.loop = true;
+            audio.play();
+            // Set object references
+            playbtn = document.getElementById("playpausebtn");
+            mutebtn = document.getElementById("mutebtn");
+            // Add Event Handling
+            playbtn.addEventListener("click", playPause);
+            mutebtn.addEventListener("click", mute);
+            // Functions
+            function playPause() {
+                if (audio.paused) {
+                    audio.play();
+                    playbtn.style.background = "url(images/pause.png) no-repeat";
+                } else {
+                    audio.pause();
+                    playbtn.style.background = "url(images/play.png) no-repeat";
+                }
+            }
+
+            function mute() {
+                if (audio.muted) {
+                    audio.muted = false;
+                    mutebtn.style.background = "url(images/speaker.png) no-repeat";
+                } else {
+                    audio.muted = true;
+                    mutebtn.style.background = "url(images/speaker_muted.png) no-repeat";
+                }
+            }
+        }
+
+        window.addEventListener("load", initAudioPlayer);
+    </script>
+
+
+    <body>
+        <header class="header-wrapper">
+            <div class="header">
+                <div class="checkbox-container">
+                    <div class="checkbox-wrapper"><input type="checkbox" id="toggle"><label class="checkbox" for="toggle"><!--div.trace*3--><div class="trace"></div><div class="trace"></div><div class="trace"></div></label>
+                        <!--div.menu-->
+                        <div class="menu"></div>
+                        <!--nav.menu-items-->
+                        <nav class="menu-items">
+                            <ul>
+                                <!--li*3-->
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">Sobre</a></li>
+                                <li><a href="#">Projetos</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <h1>Irene Silva França</h1>
+            <h2>Estudante Sistema de Informação</h2>
+            <div class="social-media"><a href="https://github.com/issf69">Github</a><a href="https://www.instagram.com/dev.solitaria/?next=%2F">Instagram</a><a href="https://www.facebook.com/people/Dev-Solitarya/pfbid0Yzk5RhrSP1m9KrwZCqcCh3RRgDAgfXNQUEp3PiFDfewHSsBw9uwcruxz38JHyj8Dl/">Linkedin</a>
+                <a href="https://www.youtube.com/channel/UCXXNb9L0-8eIrAjWM0QrPwQ">Youtube</a>
+            </div>
+        </header>
+        <main class="container">
+            <div class="container">
+                <div class="card-text">
+                    <p align="center"><img src="https://user-images.githubusercontent.com/105497075/221914287-efd9f004-e1f9-4444-b6fc-d4c0e55d15af.gif" src=".github/preview.jpg" width="50%"></p>
+                    <p align="center"><img src="https://user-images.githubusercontent.com/105497075/226107948-b2a3fbc3-9320-4982-b505-09861eef9dcf.gif" src=".github/preview.jpg" width="10%"><br>Olá! Meu Nome é Irene . </p>👩‍🎓Estudante na área de Sistema de Informação,
+                    cursando 7º período. Pretendo, enquanto respirar, continuar estudando. Sempre, aperfeiçoando e desenvolvendo novas habilidades, em busca novos desafios, conhecimento e aprendizado. ❤️ ️Amo tecnologia, viajo o mundo virtual em busca
+                    das experiências, e descobertas revolucionárias. O que mais me motiva é saber que para desenvolver habilidades basta estarmos disponíveis para aceitar o novo. 👀Veja abaixo um pouco das histórias das redes sociais e meus projetos.🎉
+                </div>
+                <div class="card">
+                    <div class="card-wrapper">
+                        <h2>Github</h2>
+                        <p>Veja meus projetos</p>
+                    </div>
+                </div>
+                <div class="card-text">😺GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source
+                    de qualquer lugar do mundo. GitHub é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto, além de promover fácil comunicação através de recursos que relatam
+                    problemas ou misturam repositórios remotos (issues, pull request).O GitHub foi desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon usando Ruby on Rails, e começou em fevereiro de 2008. A empresa, GitHub, Inc.,
+                    existe desde 2007 e está localizada em São Francisco.🐈😺😸😹😻😼😽🙀😿😾🐱🐈‍⬛ </div>
+            </div>
+            </div>
+            <div class="container">
+                <div class="card">
+                    <div class="card-wrapper">
+                        <h2>Linkedin</h2>
+                        <p>Acompanhe meus projetos!</p>
+                    </div>
+                </div>
+                <div class="card-text">O LinkedIn é uma 🥅 rede social 👶👦👧🧑👱👨👩👨‍🦲👨‍🦳👨‍🦱👨‍🦰🧔👸🤴👳‍♀️👳‍♂️👲🧔👼🧑‍🎄👮‍♀️🕵️💂‍♀️🥷👷‍♀️👩‍⚕️👨‍🎓🧑‍⚕️👩‍🏫👨‍⚖️🧑‍🏫👩‍⚖️👩‍🌾👨‍🍳👩‍🔧👨‍🏭👩‍💼👩‍🔬👩‍💻👩‍🎤👩‍🎨👩‍✈️👩‍🚀👩‍🚒🧕👰‍♀️👰🤵‍♀️👨‍🍼🦸🧙🧙‍♂️🧚‍♀️🧛🧜‍♀️🧝‍♂️🧝🙆‍♂️🙋‍♀️🙋‍♂️👨‍🦽👩‍🦽👩‍🦯🤹‍♂️🧗‍♂️🕺💃🏌️‍♀️🏌️🚣‍♂️🏋️‍♀️🚴‍♂️🧑‍🎓focada
+                    no campo profissional de seus usuários. A plataforma visa conectar profissionais de todo mundo para trazer benefícios às suas carreiras, além de mostrar seu perfil para as empresas que buscam candidatos e que os usuários almejam trabalhar.Fundada
+                    em dezembro de 2002 e lançada em 5 de maio de 2003, de propriedade da Microsoft. </div>
+                <div class="container">
+                    <div class="card">
+                        <div class="card-wrapper">
+                            <h2>Instagram</h2>
+                            <p>Acompanhe minhas postagens</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="card-text">O Instagram é uma 🥅rede social 🧔👨‍🦰👨‍🦱👨‍🦳👨‍🦲 👶👦👧🧑👱👨👩👨‍🦲👨‍🦳👨‍🦱👨‍🦰🧔👸🤴👳‍♀️👳‍♂️👲🧔👼🧑‍🎄👮‍♀️🕵️💂‍♀️🥷👷‍♀️👩‍⚕️👨‍🎓🧑‍⚕️👩‍🏫👨‍⚖️🧑‍🏫👩‍⚖️👩‍🌾👨‍🍳👩‍🔧👨‍🏭👩‍💼👩‍🔬👩‍💻👩‍🎤👩‍🎨👩‍✈️👩‍🚀👩‍🚒🧕👰‍♀️👰🤵‍♀️👨‍🍼🦸🧙🧙‍♂️🧚‍♀️🧛🧜‍♀️🧝‍♂️🧝🙆‍♂️🙋‍♀️🙋‍♂️👨‍🦽👩‍🦽👩‍🦯🤹‍♂️🧗‍♂️🕺💃🏌️‍♀️🏌️🚣‍♂️🏋️‍♀️🚴‍♂️🤸‍♂️na
+                        qual o usuário pode compartilhar de fotos e vídeos entre seus usuários, rolar o feed de notícias para ver fotos e vídeos das pessoas a quem segue.O Instagram foi criado por Kevin Systrom e Mike Krieger e lançado em outubro de 2010.
+                    </div>
+                    <div class="container">
+                        <div class="card">
+                            <div class="card-wrapper">
+                                <h2>Facebook</h2>
+                                <p>Acompanhe o que curto!</p>
+                            </div>
+                        </div>
+                        <div class="card-text">O Facebook é uma 🥅rede social 🧔👨‍🦰👨‍🦱👨‍🦳👨‍🦲 👶👦👧🧑👱👨👩👨‍🦲👨‍🦳👨‍🦱👨‍🦰🧔👸🤴👳‍♀️👳‍♂️👲🧔👼🧑‍🎄👮‍♀️🕵️💂‍♀️🥷👷‍♀️👩‍⚕️👨‍🎓🧑‍⚕️👩‍🏫👨‍⚖️🧑‍🏫👩‍⚖️👩‍🌾👨‍🍳👩‍🔧👨‍🏭👩‍💼👩‍🔬👩‍💻👩‍🎤👩‍🎨👩‍✈️👩‍🚀👩‍🚒🧕👰‍♀️👰🤵‍♀️👨‍🍼🦸🧙🧙‍♂️🧚‍♀️🧛🧜‍♀️🧝‍♂️🧝🙆‍♂️🙋‍♀️🙋‍♂️👨‍🦽👩‍🦽👩‍🦯🤹‍♂️🧗‍♂️🕺💃🏌️‍♀️🏌️🚣‍♂️🏋️‍♀️🚴‍♂️🤸‍♂️
+                            voltada para "conectar" pessoas através de publicações pessoais, compartilhar informações, notícias ou conteúdos audiovisuais. A ideia é estabelecer contato com pessoas próximas a nós, como amigos e familiares, colegas da escola
+                            ou pessoas com preferências semelhantes aos nossos.Facemash, o antecessor do Facebook, foi lançado em 28 de outubro de 2003. Inicialmente, o site foi criado pelo estudante da universidade de Harvard, Mark Zuckerberg, e três
+                            amigos – Eduardo Saverin, Chris Hughes e Dustin Moskovitz.Em janeiro de 2004, Mark Zuckerberg começou a escrever o código para um novo site, conhecido como “thefacebook”.Em 1 de outubro de 2005, o Facebook se expandiu....⏩.
+                        </div>
+                        <div class="container"></div>
+                        <div class="card">
+                            <div class="card-wrapper">
+                                <h2>Youtube</h2>
+                                <p>Acompanhe o que curto!</p>
+                            </div>
+                        </div>
+                        <div class="card-text">🕹️📽️YouTube é uma plataforma de compartilhamento de vídeos📹 com sede em San Bruno, Califórnia. O serviço foi criado por três ex-funcionários do PayPal - Chad Hurley, Steve Chen e Jawed Karim - em fevereiro de 2005. A Google
+                            comprou o site em novembro de 2006 por US$ 1, 65 bilhão. Desde então o YouTube funciona como uma das subsidiárias da Google.⏩. </div>
+                    </div>
+                    <div class="container"></div>
+                    <div class="card">
+                        <div class="card-wrapper">
+                            <h2>Minhas conquistas</h2>
+                            <p> Alguns dos meus certificados</p>
+                            <img src="./certificado dio introducao a criacao web sites.png" width="60%" </div>
+                        </div>
+                    </div>
+                </div>
+        </main>
+        <footer class="footer"><img src="https://user-images.githubusercontent.com/105497075/221876382-6566380b-c10c-4886-b376-41b0acf7cbf1.gif" src=".github/preview.jpg" width="10%"></p>Feito por Irene Silva França com muito<img src="https://github.com/issf69/issf69/assets/105497075/cdfa8b6c-311e-4f7f-b18f-952e170bdb66"
+    src=".github/preview.jpg" width="5%">
+</footer>
+</body>
+
+
+
+</html>
