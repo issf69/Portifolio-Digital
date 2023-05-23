@@ -40,13 +40,18 @@ Esse projeto foi desenvolvido com os seguintes sistemas:
 
 - HTML,
 - CSS ,
-- Javascript.
+- JavaScript.
 
 ## 💻 Projeto
 
 Desenvolvendo Morphing Menu com CSS Transitions
 
 Morphing ou morph é um efeito especial de computação gráfica que permite uma transição ou metamorfose gradual entre duas ou mais imagens, criando a ilusão de transformação de uma coisa em outra. Envolve deformação espacial e modificação de tonalidades, de modo que uma imagem inicial será gradualmente transformada numa imagem final.
+
+💡 👉 O @keyframes CSS at-rule controla as etapas intermediárias em uma sequência de animação CSS definindo estilos para quadros-chave (ou waypoints) ao longo da sequência de animação. Isso dá mais controle sobre as etapas intermediárias da sequência de animação do que as transições.
+
+⁉️🤔⁉️⁉️❓❓❔O que é JavaScript?
+JavaScript é uma linguagem de script orientada a objetos, multiplataforma. É uma linguagem pequena e leve. Dentro de um ambiente de host (por exemplo, um navegador web) o JavaScript pode ser ligado aos objetos deste ambiente para prover um controle programático sobre eles.
 
 ## 🔎 Fontes para pesquisa:  
 
@@ -63,6 +68,8 @@ Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abai
 🎥 [👀Assistir o vídeo Desenvolvendo um Menu com CSS Transitions](https://youtu.be/zrfSmAmAQW8)
 
 🎥 [👀Assistir o vídeo do Projeto CSS Transitions](https://www.youtube.com/watch?v=TnGlAPn7J_8)
+
+💻[👉❓⁉️JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction)
 
 💻[👉 Regra de @keyframes CSS](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php)
 
