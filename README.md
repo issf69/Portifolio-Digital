@@ -7,7 +7,7 @@ Portifolio-Digital
   
   
   <p align="center">
-  <img alt="License" src="https://github.com/issf69/Portifolio-Digital/assets/105497075/66fa7c37-a63f-484b-8bcc-b8d5c641da62"width="450px">
+  <img alt="License" src="https://github.com/issf69/Portifolio-Digital/assets/105497075/66fa7c37-a63f-484b-8bcc-b8d5c641da62"width="700px">
    <br>
 
  
@@ -20,9 +20,11 @@ Portifolio-Digital
 
 <p align="center">
   <a href="#-sistemas">Sistemas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-linguagens">Linguagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#-fontes-para-pesquisa">Fontes para pesquisa</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+ 
 </p>
 
 
@@ -34,6 +36,11 @@ Esse projeto foi desenvolvido com os seguintes sistemas:
 - 📋Editor de Texto 👉 Vscode
 - 📳 Um navegador de internet
 
+##  😝Linguagens utilizadas
+
+- HTML,
+- CSS ,
+- Javascript.
 
 ## 💻 Projeto
 
@@ -44,6 +51,8 @@ Morphing ou morph é um efeito especial de computação gráfica que permite uma
 ## 🔎 Fontes para pesquisa:  
 
 Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abaixo .
+
+🎥 [👀 Assistir o vídeo Portifolio Digital](https://youtu.be/efS6ccEdSS0)
 
 🎥 [👀 Assistir o vídeo Desenvolvendo habilidades CSS](https://youtu.be/efS6ccEdSS0)
 
@@ -68,6 +77,16 @@ Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abai
 💻[👉👀Mais informações sobre HTML5](https://html5.org/)
 
 💻[👉Mais informações sobre CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
+
+💻[👉Mais informações sobre o surgimento LinkedIn](https://pt.wikipedia.org/wiki/LinkedIn)
+
+💻[👉Mais informações sobre o surgimento GitHub](https://pt.wikipedia.org/wiki/GitHub)
+
+💻[👉Mais informações sobre o surgimento Instagram](https://pt.wikipedia.org/wiki/Instagram)
+
+💻[👉Mais informações sobre o surgimento Facebook](https://pt.wikipedia.org/wiki/Facebook)
+
+💻[👉Mais informações sobre o surgimento YouTube](https://pt.wikipedia.org/wiki/YouTube)
 
 ## :memo: Licença
 
