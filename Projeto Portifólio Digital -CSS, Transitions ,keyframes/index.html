@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xml:lang="www.w3.org/1999/xhtml">
 
 <head>
     <meta charset="UTF-8">
@@ -10,14 +10,11 @@
 <p align="center">
 
 
-    <source src="Baym Rebin in Palestina - E's Jammy Jams.mp3" type="audio/mp3">
-    <source src="Baym Rebin in Palestina - E's Jammy Jams.mp3" type="audio/ogg">
-    <source src="Baym Rebin in Palestina - E's Jammy Jams.mp3" type="audio/wav">
-
 
     <button id="playpausebtn">Play</button>
-    <button id="mutebtn">
-                stop</button></body>
+    <button id="mutebtn">Stop</button>
+
+
     <script>
         var audio,
             playbtn,
@@ -39,20 +36,20 @@
             function playPause() {
                 if (audio.paused) {
                     audio.play();
-                    playbtn.style.background = "url(images/pause.png) no-repeat";
+                    playbtn.style.background = "url(play.png) no-repeat";
                 } else {
                     audio.pause();
-                    playbtn.style.background = "url(images/play.png) no-repeat";
+                    playbtn.style.background = "url(stop.png) no-repeat";
                 }
             }
 
             function mute() {
                 if (audio.muted) {
                     audio.muted = false;
-                    mutebtn.style.background = "url(images/speaker.png) no-repeat";
+                    mutebtn.style.background = "url(play.png) no-repeat";
                 } else {
                     audio.muted = true;
-                    mutebtn.style.background = "url(images/speaker_muted.png) no-repeat";
+                    mutebtn.style.background = "url(stop.png) no-repeat";
                 }
             }
         }
@@ -86,6 +83,7 @@
                 <a href="https://www.youtube.com/channel/UCXXNb9L0-8eIrAjWM0QrPwQ">Youtube</a>
             </div>
         </header>
+
         <main class="container">
             <div class="container">
                 <div class="card-text">
@@ -155,8 +153,13 @@
                         <div class="card-wrapper">
                             <h2>Minhas conquistas</h2>
                             <p> Alguns dos meus certificados</p>
-                            <img src="./certificado dio introducao a criacao web sites.png" width="60%" </div>
+                            <img src="./certificado dio introducao a criacao web sites.png" width="40%">
+                            <img src="./css transsitions.png" width="50%" height="100%">
+                            <img src="./Dio certificadohtml-css.png" width="60%">
+
                         </div>
+
+
                     </div>
                 </div>
         </main>
