@@ -60,7 +60,7 @@ Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abai
 
 🎥 [👀 Assistir o vídeo Keyframes-CSS](https://youtu.be/awbGZqPxuis)
 
-🎥 [👀Assistir o vídeo Desenvolvendo um Menu Hamburguer  com CSS Transitions](https://youtu.be/zrfSmAmAQW8)
+🎥 [👀Assistir o vídeo Desenvolvendo um Menu com CSS Transitions](https://youtu.be/zrfSmAmAQW8)
 
 🎥 [👀Assistir o vídeo do Projeto CSS Transitions](https://www.youtube.com/watch?v=TnGlAPn7J_8)
 
@@ -93,8 +93,10 @@ Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abai
 Esse projeto está sob a licença MIT.
 
 ---
+## Olá! Meu Nome é Irene . </p>👩‍🎓Estudante na área de Sistema de Informação,
+cursando 7º período. Pretendo, enquanto respirar, continuar estudando. Sempre, aperfeiçoando e desenvolvendo novas habilidades, em busca novos desafios, conhecimento e aprendizado. ❤️ ️Amo tecnologia, viajo o mundo virtual em busca
+das experiências, e descobertas revolucionárias. O que mais me motiva é saber que para desenvolver habilidades basta estarmos disponíveis para aceitar o novo. 👀Veja abaixo um pouco das histórias das redes sociais e meus projetos.🎉
 
-
-Feito com ♥ .Projeto de estudo da aluna Irene Silva França, feito através Plataforma Dio :wave: [Participe da nossa comunidade!](https://www.dio.me/))
+## Feito com ♥ .Projeto de estudo da aluna Irene Silva França, feito através Plataforma Dio :wave: [Participe da nossa comunidade!](https://www.dio.me/))
 
 
