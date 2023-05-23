@@ -94,7 +94,7 @@ Esse projeto está sob a licença MIT.
 
 ---
 ## Olá! Meu Nome é Irene . </p>👩‍🎓Estudante na área de Sistema de Informação,
-cursando 7º período. Pretendo, enquanto respirar, continuar estudando. Sempre, aperfeiçoando e desenvolvendo novas habilidades, em busca novos desafios, conhecimento e aprendizado. ❤️ ️Amo tecnologia, viajo o mundo virtual em busca
+Cursando 7º período. Pretendo, enquanto respirar, continuar estudando. Sempre, aperfeiçoando e desenvolvendo novas habilidades, em busca novos desafios, conhecimento e aprendizado. ❤️ ️Amo tecnologia, viajo o mundo virtual em busca
 das experiências, e descobertas revolucionárias. O que mais me motiva é saber que para desenvolver habilidades basta estarmos disponíveis para aceitar o novo. 👀Veja abaixo um pouco das histórias das redes sociais e meus projetos.🎉
 
 ## Feito com ♥ .Projeto de estudo da aluna Irene Silva França, feito através Plataforma Dio :wave: [Participe da nossa comunidade!](https://www.dio.me/))
