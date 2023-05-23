@@ -52,7 +52,7 @@ Morphing ou morph é um efeito especial de computação gráfica que permite uma
 
 Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abaixo .
 
-🎥 [👀 Assistir o vídeo Portifolio Digital](https://youtu.be/efS6ccEdSS0)
+🎥 [👀 Assistir o vídeo Portifolio Digital](https://www.youtube.com/watch?v=0L0pdzStSsM)
 
 🎥 [👀 Assistir o vídeo Desenvolvendo habilidades CSS](https://youtu.be/efS6ccEdSS0)
 
