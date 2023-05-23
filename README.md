@@ -28,16 +28,14 @@ Portifolio-Digital
  
 </p>
 
-
-  
- ## 💻 Sistemas
+## 💻 Sistemas
 
 Esse projeto foi desenvolvido com os seguintes sistemas:
 
 - 📋Editor de Texto 👉 Vscode
 - 📳 Um navegador de internet
 
-##  😝Linguagens utilizadas
+##  😝Linguagens
 
 - HTML,
 - CSS ,
