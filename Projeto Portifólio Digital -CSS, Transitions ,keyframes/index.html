@@ -28,13 +28,13 @@
             audio.src = "Baym Rebin in Palestina - E's Jammy Jams.mp3";
             audio.loop = true;
             audio.play();
-            // Definir referências de objeto
+        
             playbtn = document.getElementById("playpausebtn");
             mutebtn = document.getElementById("mutebtn");
-            // Adicionar tratamento de eventos
+          
             playbtn.addEventListener("click", playPause);
             mutebtn.addEventListener("click", mute);
-            // Funções
+     
             function playPause() {
                 if (audio.paused) {
                     audio.play();
